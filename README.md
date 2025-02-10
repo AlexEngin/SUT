@@ -1,2 +1,10 @@
 # SUT
 Firmware 
+AK-74
+GP-25
+RPK
+PKM
+SVD
+PM
+RPG-26
+RPG-7
